@@ -14,20 +14,27 @@ export function usePageFlip({ totalPages, onPageChange }: UsePageFlipOptions) {
 
   const goToPage = useCallback(
     (pageIndex: number) => {
-      if (pageIndex < 0 || pageIndex >= totalPages || isFlipping) return
+      // Guard against invalid page index or ongoing flip
+      if (pageIndex < 0 || pageIndex >= totalPages) return
 
-      const direction = pageIndex > currentPageIndex ? "forward" : "backward"
-      setFlipDirection(direction)
-      setIsFlipping(true)
+      setIsFlipping((flipping) => {
+        if (flipping) return true // prevent new flips while one is active
 
-      // Simulate flip animation duration
-      setTimeout(() => {
-        setCurrentPageIndex(pageIndex)
-        setIsFlipping(false)
-        onPageChange?.(pageIndex)
-      }, 300)
+        const direction = pageIndex > currentPageIndex ? "forward" : "backward"
+        setFlipDirection(direction)
+        setIsFlipping(true)
+
+        // Simulate flip animation delay
+        setTimeout(() => {
+          setCurrentPageIndex(pageIndex)
+          setIsFlipping(false)
+          onPageChange?.(pageIndex)
+        }, 300)
+
+        return true
+      })
     },
-    [currentPageIndex, totalPages, isFlipping, onPageChange],
+    [currentPageIndex, totalPages, onPageChange],
   )
 
   const nextPage = useCallback(() => {

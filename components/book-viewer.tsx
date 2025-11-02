@@ -55,10 +55,13 @@ export function BookViewer({ album, highlightedPageIndex, highlightedText, searc
     })
 
   useEffect(() => {
-    if (highlightedPageIndex !== null && highlightedPageIndex !== undefined) {
+    // Only trigger navigation when the value is a valid number
+    if (typeof highlightedPageIndex === "number" && highlightedPageIndex >= 0) {
       goToPage(highlightedPageIndex)
     }
-  }, [highlightedPageIndex, goToPage])
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [highlightedPageIndex])
+
 
   const currentPage = album.pages[currentPageIndex]
 
@@ -196,7 +199,7 @@ export function BookViewer({ album, highlightedPageIndex, highlightedText, searc
           whileHover={{ scale: 1.1 }}
           whileTap={{ scale: 0.9 }}
           onClick={prevPage}
-          disabled={!canGoPrev || isFlipping || searchActive}
+          disabled={searchActive}
           className="p-2 sm:p-3 rounded-full bg-background/80 backdrop-blur-sm  hover:bg-white/30 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
         >
           <ChevronLeft size={20} className="sm:w-6 sm:h-6 text-foreground" />
@@ -212,7 +215,7 @@ export function BookViewer({ album, highlightedPageIndex, highlightedText, searc
           whileHover={{ scale: 1.1 }}
           whileTap={{ scale: 0.9 }}
           onClick={nextPage}
-          disabled={!canGoNext || isFlipping || searchActive}
+          disabled={searchActive}
           className="p-2 sm:p-3 rounded-full bg-background/80 backdrop-blur-sm  hover:bg-white/30 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
         >
           <ChevronRight size={20} className="sm:w-6 sm:h-6 text-foreground" />

@@ -1,0 +1,1348 @@
+{
+  "albums": [
+    {
+      "id": "family-gathering-1",
+      "title": "Family Gathering",
+      "subtitle": "Precious Times Together",
+      "description": "Cherished memories with loved ones during our annual family gathering",
+      "collection": "Family",
+      "coverImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800&h=1000&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&h=1600&fit=crop",
+      "searchTags": ["family", "memories", "together", "love", "moments", "gathering"],
+      "pages": [
+        {
+          "id": "page-1",
+          "template": "cover",
+          "title": "Family Gathering",
+          "subtitle": "Precious Times Together",
+          "backgroundImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&h=1600&fit=crop",
+          "textColor": "white",
+          "textAnimation": "fade"
+        },
+        {
+          "id": "page-2",
+          "template": "grid-3",
+          "images": [
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&h=600&fit=crop"
+          ]
+        },
+        {
+          "id": "page-3",
+          "template": "text-image",
+          "title": "Moments That Matter",
+          "description": "These gatherings remind us of what truly matters in life - the people we love and the memories we create together.",
+          "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        }
+      ]
+    },
+    {
+      "id": "family-gathering-2",
+      "title": "Holiday Celebration",
+      "subtitle": "Festive Family Moments",
+      "description": "Special holiday celebrations with family",
+      "collection": "Family",
+      "coverImage": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800&h=1000&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=1200&h=1600&fit=crop",
+      "searchTags": ["family", "holiday", "celebration", "festive"],
+      "pages": [
+        {
+          "id": "page-1",
+          "template": "cover",
+          "title": "Holiday Celebration",
+          "subtitle": "Festive Family Moments",
+          "backgroundImage": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=1200&h=1600&fit=crop",
+          "textColor": "white",
+          "textAnimation": "fade"
+        },
+        {
+          "id": "page-2",
+          "template": "grid-4",
+          "images": [
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=400&h=400&fit=crop"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "family-gathering-3",
+      "title": "Weekend Getaway",
+      "subtitle": "Family Adventure",
+      "description": "A memorable weekend trip with the whole family",
+      "collection": "Family",
+      "coverImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800&h=1000&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&h=1600&fit=crop",
+      "searchTags": ["family", "adventure", "weekend", "travel"],
+      "pages": [
+        {
+          "id": "page-1",
+          "template": "cover",
+          "title": "Weekend Getaway",
+          "subtitle": "Family Adventure",
+          "backgroundImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&h=1600&fit=crop",
+          "textColor": "white",
+          "textAnimation": "fade"
+        },
+        {
+          "id": "page-2",
+          "template": "full-image",
+          "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&h=800&fit=crop"
+        },
+        {
+          "id": "page-3",
+          "template": "grid-2-rect",
+          "images": [
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&h=400&fit=crop"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "friends-adventure-1",
+      "title": "Friends Adventure",
+      "subtitle": "Adventures with Friends",
+      "description": "Fun times and adventures with friends exploring new places",
+      "collection": "Friends",
+      "coverImage": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&h=1000&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1200&h=1600&fit=crop",
+      "searchTags": ["friends", "adventure", "fun", "memories", "travel"],
+      "pages": [
+        {
+          "id": "page-1",
+          "template": "cover",
+          "title": "Friends Adventure",
+          "subtitle": "Adventures with Friends",
+          "backgroundImage": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1200&h=1600&fit=crop",
+          "textColor": "white",
+          "textAnimation": "fade"
+        },
+        {
+          "id": "page-2",
+          "template": "grid-3",
+          "images": [
+            "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&h=600&fit=crop"
+          ]
+        },
+        {
+          "id": "page-3",
+          "template": "text-image",
+          "title": "Making Memories",
+          "description": "With friends, every moment becomes a cherished memory. These adventures remind us why friendship is so valuable.",
+          "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&h=600&fit=crop",
+          "imagePosition": "left"
+        }
+      ]
+    },
+    {
+      "id": "friends-adventure-2",
+      "title": "Beach Day",
+      "subtitle": "Summer Fun with Friends",
+      "description": "A perfect day at the beach with friends",
+      "collection": "Friends",
+      "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=1000&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&h=1600&fit=crop",
+      "searchTags": ["friends", "beach", "summer", "fun", "ocean"],
+      "pages": [
+        {
+          "id": "page-1",
+          "template": "cover",
+          "title": "Beach Day",
+          "subtitle": "Summer Fun with Friends",
+          "backgroundImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&h=1600&fit=crop",
+          "textColor": "white",
+          "textAnimation": "fade"
+        },
+        {
+          "id": "page-2",
+          "template": "grid-4",
+          "images": [
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=400&fit=crop"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "friends-adventure-3",
+      "title": "Road Trip",
+      "subtitle": "Cross Country Adventure",
+      "description": "An epic road trip across the country with best friends",
+      "collection": "Friends",
+      "coverImage": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&h=1000&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200&h=1600&fit=crop",
+      "searchTags": ["friends", "road trip", "adventure", "travel", "journey"],
+      "pages": [
+        {
+          "id": "page-1",
+          "template": "cover",
+          "title": "Road Trip",
+          "subtitle": "Cross Country Adventure",
+          "backgroundImage": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200&h=1600&fit=crop",
+          "textColor": "white",
+          "textAnimation": "fade"
+        },
+        {
+          "id": "page-2",
+          "template": "full-image",
+          "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200&h=800&fit=crop"
+        },
+        {
+          "id": "page-3",
+          "template": "grid-2-square",
+          "images": [
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=500&h=500&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=500&h=500&fit=crop"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hobby-photography-1",
+      "title": "Photography",
+      "subtitle": "My Photography Journey",
+      "description": "Capturing moments through the lens - my passion for photography",
+      "collection": "Hobby",
+      "coverImage": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800&h=1000&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=1200&h=1600&fit=crop",
+      "searchTags": ["hobby", "photography", "art", "creative", "camera"],
+      "pages": [
+        {
+          "id": "page-1",
+          "template": "cover",
+          "title": "Photography",
+          "subtitle": "My Photography Journey",
+          "backgroundImage": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=1200&h=1600&fit=crop",
+          "textColor": "white",
+          "textAnimation": "fade"
+        },
+        {
+          "id": "page-2",
+          "template": "grid-3",
+          "images": [
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=600&fit=crop"
+          ]
+        },
+        {
+          "id": "page-3",
+          "template": "text-image",
+          "title": "The Art of Photography",
+          "description": "Photography is not just about capturing images, it's about capturing emotions, stories, and moments that matter.",
+          "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        }
+      ]
+    },
+    {
+      "id": "hobby-photography-2",
+      "title": "Nature Photography",
+      "subtitle": "Exploring Natural Beauty",
+      "description": "Capturing the beauty of nature through photography",
+      "collection": "Hobby",
+      "coverImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=1000&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=1600&fit=crop",
+      "searchTags": ["hobby", "nature", "photography", "landscape", "outdoor"],
+      "pages": [
+        {
+          "id": "page-1",
+          "template": "cover",
+          "title": "Nature Photography",
+          "subtitle": "Exploring Natural Beauty",
+          "backgroundImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=1600&fit=crop",
+          "textColor": "white",
+          "textAnimation": "fade"
+        },
+        {
+          "id": "page-2",
+          "template": "grid-4",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=400&fit=crop"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hobby-photography-3",
+      "title": "Portrait Photography",
+      "subtitle": "Capturing Personalities",
+      "description": "Portrait photography showcasing unique personalities and expressions",
+      "collection": "Hobby",
+      "coverImage": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800&h=1000&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=1200&h=1600&fit=crop",
+      "searchTags": ["hobby", "portrait", "photography", "people", "expression"],
+      "pages": [
+        {
+          "id": "page-1",
+          "template": "cover",
+          "title": "Portrait Photography",
+          "subtitle": "Capturing Personalities",
+          "backgroundImage": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=1200&h=1600&fit=crop",
+          "textColor": "white",
+          "textAnimation": "fade"
+        },
+        {
+          "id": "page-2",
+          "template": "grid-2-rect",
+          "images": [
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-3",
+          "template": "full-image",
+          "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=1200&h=800&fit=crop"
+        }
+      ]
+    },
+    {
+      "id": "big-family-reunion-1",
+      "title": "Annual Family Reunion 2024",
+      "subtitle": "Three Generations Together",
+      "description": "Our biggest family gathering of the year with over 50 family members from across the country",
+      "collection": "Big Family",
+      "coverImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800&h=1000&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&h=1600&fit=crop",
+      "searchTags": ["family", "reunion", "gathering", "generations", "memories"],
+      "pages": [
+        {
+          "id": "page-1",
+          "template": "cover",
+          "title": "Annual Family Reunion 2024",
+          "subtitle": "Three Generations Together",
+          "backgroundImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&h=1600&fit=crop",
+          "textColor": "white",
+          "textAnimation": "fade"
+        },
+        {
+          "id": "page-2",
+          "template": "text-image",
+          "title": "Welcome to Our Reunion",
+          "description": "This year's reunion brought together family members from California, Texas, New York, and Florida. It was a wonderful opportunity to reconnect, share stories, and create new memories together. The weather was perfect, and everyone was in great spirits.",
+          "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        },
+        {
+          "id": "page-3",
+          "template": "grid-4",
+          "images": [
+            "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=400&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-4",
+          "template": "full-image",
+          "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&h=800&fit=crop"
+        },
+        {
+          "id": "page-5",
+          "template": "text-image",
+          "title": "The Grandparents' Table",
+          "description": "Our grandparents were the heart of the reunion. They shared stories from decades past, and the younger generation listened intently to tales of family history and traditions that have been passed down through generations.",
+          "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800&h=600&fit=crop",
+          "imagePosition": "left"
+        },
+        {
+          "id": "page-6",
+          "template": "grid-3",
+          "images": [
+            "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600&h=600&fit=crop"
+          ]
+        },
+        {
+          "id": "page-7",
+          "template": "text-image",
+          "title": "Kids Playing Together",
+          "description": "The children had a blast playing games and activities in the backyard. From relay races to treasure hunts, there was never a dull moment. Their laughter and joy filled the entire day.",
+          "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        },
+        {
+          "id": "page-8",
+          "template": "grid-2-rect",
+          "images": [
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-9",
+          "template": "full-image",
+          "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=1200&h=800&fit=crop"
+        },
+        {
+          "id": "page-10",
+          "template": "text-image",
+          "title": "Family Dinner",
+          "description": "The evening feast was spectacular with dishes from every family member's specialty. Grandma's famous lasagna, Uncle Joe's BBQ ribs, and Aunt Maria's homemade desserts made for an unforgettable meal shared with loved ones.",
+          "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800&h=600&fit=crop",
+          "imagePosition": "left"
+        },
+        {
+          "id": "page-11",
+          "template": "grid-4",
+          "images": [
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=400&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-12",
+          "template": "text-image",
+          "title": "Group Photos",
+          "description": "We managed to get everyone together for the official family photo. It took several attempts with so many people, but we finally got the perfect shot with everyone smiling and looking at the camera.",
+          "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        },
+        {
+          "id": "page-13",
+          "template": "grid-3",
+          "images": [
+            "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600&h=600&fit=crop"
+          ]
+        },
+        {
+          "id": "page-14",
+          "template": "full-image",
+          "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&h=800&fit=crop"
+        },
+        {
+          "id": "page-15",
+          "template": "text-image",
+          "title": "Sunset Memories",
+          "description": "As the sun set on our reunion day, we gathered on the porch to watch the beautiful colors paint the sky. It was a perfect moment to reflect on the day and the bonds that tie our family together across the miles.",
+          "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800&h=600&fit=crop",
+          "imagePosition": "left"
+        },
+        {
+          "id": "page-16",
+          "template": "grid-2-rect",
+          "images": [
+            "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-17",
+          "template": "full-image",
+          "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&h=800&fit=crop"
+        },
+        {
+          "id": "page-18",
+          "template": "text-image",
+          "title": "Until Next Year",
+          "description": "As we said our goodbyes, we already started planning for next year's reunion. The memories we created this year will last a lifetime, and we can't wait to gather again and add more chapters to our family story.",
+          "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        }
+      ]
+    },
+    {
+      "id": "big-family-reunion-2",
+      "title": "Cousins Weekend Getaway",
+      "subtitle": "Bonding with Extended Family",
+      "description": "A special weekend trip with cousins from both sides of the family",
+      "collection": "Big Family",
+      "coverImage": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800&h=1000&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=1200&h=1600&fit=crop",
+      "searchTags": ["family", "cousins", "weekend", "getaway", "bonding"],
+      "pages": [
+        {
+          "id": "page-1",
+          "template": "cover",
+          "title": "Cousins Weekend Getaway",
+          "subtitle": "Bonding with Extended Family",
+          "backgroundImage": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=1200&h=1600&fit=crop",
+          "textColor": "white",
+          "textAnimation": "fade"
+        },
+        {
+          "id": "page-2",
+          "template": "text-image",
+          "title": "Mountain Cabin Adventure",
+          "description": "We rented a beautiful cabin in the mountains for a long weekend. The fresh air, stunning views, and quality time with cousins made it an unforgettable experience.",
+          "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        },
+        {
+          "id": "page-3",
+          "template": "grid-4",
+          "images": [
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=400&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-4",
+          "template": "full-image",
+          "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=1200&h=800&fit=crop"
+        },
+        {
+          "id": "page-5",
+          "template": "text-image",
+          "title": "Hiking Adventures",
+          "description": "We explored several hiking trails around the cabin. The views were breathtaking, and we discovered hidden waterfalls and scenic overlooks that made for perfect photo opportunities.",
+          "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800&h=600&fit=crop",
+          "imagePosition": "left"
+        },
+        {
+          "id": "page-6",
+          "template": "grid-3",
+          "images": [
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&h=600&fit=crop"
+          ]
+        },
+        {
+          "id": "page-7",
+          "template": "text-image",
+          "title": "Campfire Stories",
+          "description": "Evenings around the campfire were filled with laughter, stories, and s'mores. We shared childhood memories and caught up on everything that's been happening in our lives.",
+          "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        },
+        {
+          "id": "page-8",
+          "template": "grid-2-rect",
+          "images": [
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-9",
+          "template": "full-image",
+          "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=1200&h=800&fit=crop"
+        },
+        {
+          "id": "page-10",
+          "template": "text-image",
+          "title": "Cabin Cooking",
+          "description": "We took turns cooking meals in the cabin kitchen. From breakfast pancakes to dinner BBQs, every meal was a collaborative effort and tasted even better when shared with family.",
+          "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800&h=600&fit=crop",
+          "imagePosition": "left"
+        },
+        {
+          "id": "page-11",
+          "template": "grid-4",
+          "images": [
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=400&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-12",
+          "template": "text-image",
+          "title": "Games and Laughter",
+          "description": "Board games, card games, and charades kept us entertained for hours. The competitive spirit was alive, but what mattered most was the laughter and fun we shared together.",
+          "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        },
+        {
+          "id": "page-13",
+          "template": "grid-3",
+          "images": [
+            "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600&h=600&fit=crop"
+          ]
+        },
+        {
+          "id": "page-14",
+          "template": "full-image",
+          "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&h=800&fit=crop"
+        },
+        {
+          "id": "page-15",
+          "template": "text-image",
+          "title": "Stargazing Night",
+          "description": "Away from city lights, we had the most amazing view of the stars. We lay on blankets and identified constellations while talking about our dreams and aspirations.",
+          "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800&h=600&fit=crop",
+          "imagePosition": "left"
+        },
+        {
+          "id": "page-16",
+          "template": "grid-2-rect",
+          "images": [
+            "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-17",
+          "template": "full-image",
+          "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=1200&h=800&fit=crop"
+        },
+        {
+          "id": "page-18",
+          "template": "text-image",
+          "title": "Memories to Last",
+          "description": "As we packed up to leave, we promised to do this again next year. These moments with cousins are precious and remind us of the importance of family bonds that transcend distance and time.",
+          "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        }
+      ]
+    },
+    {
+      "id": "event-wedding-1",
+      "title": "Sarah & Michael's Wedding",
+      "subtitle": "A Beautiful Celebration of Love",
+      "description": "The wedding of Sarah and Michael - a day filled with love, joy, and unforgettable moments",
+      "collection": "Event",
+      "coverImage": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&h=1000&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&h=1600&fit=crop",
+      "searchTags": ["wedding", "event", "celebration", "love", "ceremony"],
+      "pages": [
+        {
+          "id": "page-1",
+          "template": "cover",
+          "title": "Sarah & Michael's Wedding",
+          "subtitle": "A Beautiful Celebration of Love",
+          "backgroundImage": "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&h=1600&fit=crop",
+          "textColor": "white",
+          "textAnimation": "fade"
+        },
+        {
+          "id": "page-2",
+          "template": "text-image",
+          "title": "The Big Day Begins",
+          "description": "The morning started with excitement and anticipation. Sarah looked absolutely stunning in her wedding dress, and Michael couldn't take his eyes off her as they prepared for the ceremony.",
+          "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        },
+        {
+          "id": "page-3",
+          "template": "grid-4",
+          "images": [
+            "https://images.unsplash.com/photo-1519741497674-611481863552?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1519741497674-611481863552?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1519741497674-611481863552?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1519741497674-611481863552?w=400&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-4",
+          "template": "full-image",
+          "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&h=800&fit=crop"
+        },
+        {
+          "id": "page-5",
+          "template": "text-image",
+          "title": "The Ceremony",
+          "description": "The ceremony was held in a beautiful garden venue with family and friends gathered to witness their vows. There wasn't a dry eye in the house as they exchanged rings and promised their love forever.",
+          "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&h=600&fit=crop",
+          "imagePosition": "left"
+        },
+        {
+          "id": "page-6",
+          "template": "grid-3",
+          "images": [
+            "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&h=600&fit=crop"
+          ]
+        },
+        {
+          "id": "page-7",
+          "template": "text-image",
+          "title": "First Kiss as Husband and Wife",
+          "description": "The moment they kissed as a married couple was magical. The crowd erupted in cheers and applause, and confetti filled the air as they walked back down the aisle together.",
+          "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        },
+        {
+          "id": "page-8",
+          "template": "grid-2-rect",
+          "images": [
+            "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-9",
+          "template": "full-image",
+          "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&h=800&fit=crop"
+        },
+        {
+          "id": "page-10",
+          "template": "text-image",
+          "title": "Reception Celebration",
+          "description": "The reception was filled with laughter, dancing, and delicious food. Friends and family celebrated the newlyweds with heartfelt toasts and well-wishes for their future together.",
+          "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&h=600&fit=crop",
+          "imagePosition": "left"
+        },
+        {
+          "id": "page-11",
+          "template": "grid-4",
+          "images": [
+            "https://images.unsplash.com/photo-1519741497674-611481863552?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1519741497674-611481863552?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1519741497674-611481863552?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1519741497674-611481863552?w=400&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-12",
+          "template": "text-image",
+          "title": "First Dance",
+          "description": "Their first dance as a married couple was a beautiful moment. The music played softly as they swayed together, lost in their own world while everyone watched with joy and admiration.",
+          "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        },
+        {
+          "id": "page-13",
+          "template": "grid-3",
+          "images": [
+            "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&h=600&fit=crop"
+          ]
+        },
+        {
+          "id": "page-14",
+          "template": "full-image",
+          "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&h=800&fit=crop"
+        },
+        {
+          "id": "page-15",
+          "template": "text-image",
+          "title": "Cake Cutting",
+          "description": "The cutting of the wedding cake was a sweet moment. Sarah and Michael fed each other cake with smiles and laughter, creating a memory that will be cherished forever.",
+          "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&h=600&fit=crop",
+          "imagePosition": "left"
+        },
+        {
+          "id": "page-16",
+          "template": "grid-2-rect",
+          "images": [
+            "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-17",
+          "template": "full-image",
+          "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&h=800&fit=crop"
+        },
+        {
+          "id": "page-18",
+          "template": "text-image",
+          "title": "Happily Ever After",
+          "description": "As the night came to an end, Sarah and Michael left in a shower of sparklers and well-wishes. This day marked the beginning of their new chapter together, and we couldn't be happier for them.",
+          "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        }
+      ]
+    },
+    {
+      "id": "event-graduation-1",
+      "title": "Class of 2024 Graduation",
+      "subtitle": "Celebrating Academic Achievement",
+      "description": "A memorable graduation ceremony celebrating the achievements of the class of 2024",
+      "collection": "Event",
+      "coverImage": "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=800&h=1000&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=1200&h=1600&fit=crop",
+      "searchTags": ["graduation", "event", "achievement", "celebration", "education"],
+      "pages": [
+        {
+          "id": "page-1",
+          "template": "cover",
+          "title": "Class of 2024 Graduation",
+          "subtitle": "Celebrating Academic Achievement",
+          "backgroundImage": "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=1200&h=1600&fit=crop",
+          "textColor": "white",
+          "textAnimation": "fade"
+        },
+        {
+          "id": "page-2",
+          "template": "text-image",
+          "title": "The Big Day",
+          "description": "Graduation day arrived with excitement and pride. Students in their caps and gowns gathered for the ceremony that would mark the end of one chapter and the beginning of another.",
+          "image": "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        },
+        {
+          "id": "page-3",
+          "template": "grid-4",
+          "images": [
+            "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=400&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-4",
+          "template": "full-image",
+          "image": "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=1200&h=800&fit=crop"
+        },
+        {
+          "id": "page-5",
+          "template": "text-image",
+          "title": "Processional",
+          "description": "The graduates walked in procession to the main auditorium. The pride on their faces and the joy in their hearts was evident as they took their seats for the ceremony.",
+          "image": "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=800&h=600&fit=crop",
+          "imagePosition": "left"
+        },
+        {
+          "id": "page-6",
+          "template": "grid-3",
+          "images": [
+            "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=600&h=600&fit=crop"
+          ]
+        },
+        {
+          "id": "page-7",
+          "template": "text-image",
+          "title": "Keynote Speaker",
+          "description": "An inspiring keynote speaker shared wisdom and encouragement with the graduates. Their words about perseverance, dreams, and the future resonated deeply with everyone in attendance.",
+          "image": "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        },
+        {
+          "id": "page-8",
+          "template": "grid-2-rect",
+          "images": [
+            "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=600&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=600&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-9",
+          "template": "full-image",
+          "image": "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=1200&h=800&fit=crop"
+        },
+        {
+          "id": "page-10",
+          "template": "text-image",
+          "title": "Diploma Ceremony",
+          "description": "One by one, graduates walked across the stage to receive their diplomas. Each name was called with pride, and the audience erupted in cheers and applause for each achievement.",
+          "image": "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=800&h=600&fit=crop",
+          "imagePosition": "left"
+        },
+        {
+          "id": "page-11",
+          "template": "grid-4",
+          "images": [
+            "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=400&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-12",
+          "template": "text-image",
+          "title": "Caps in the Air",
+          "description": "The moment everyone was waiting for - graduates threw their caps in the air in celebration. The joy and relief of completing their studies was captured in that perfect moment.",
+          "image": "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        },
+        {
+          "id": "page-13",
+          "template": "grid-3",
+          "images": [
+            "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=600&h=600&fit=crop"
+          ]
+        },
+        {
+          "id": "page-14",
+          "template": "full-image",
+          "image": "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=1200&h=800&fit=crop"
+        },
+        {
+          "id": "page-15",
+          "template": "text-image",
+          "title": "Family Celebrations",
+          "description": "After the ceremony, families gathered for photos and celebrations. Parents beamed with pride as they congratulated their graduates on this major milestone.",
+          "image": "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=800&h=600&fit=crop",
+          "imagePosition": "left"
+        },
+        {
+          "id": "page-16",
+          "template": "grid-2-rect",
+          "images": [
+            "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=600&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=600&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-17",
+          "template": "full-image",
+          "image": "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=1200&h=800&fit=crop"
+        },
+        {
+          "id": "page-18",
+          "template": "text-image",
+          "title": "The Future Awaits",
+          "description": "As the class of 2024 moves forward into the world, they carry with them the memories of their time together and the knowledge they've gained. The future is bright and full of possibilities.",
+          "image": "https://images.unsplash.com/photo-1523050854058-7baa8d424c3f?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        }
+      ]
+    },
+    {
+      "id": "showcase-all-templates",
+      "title": "Template Showcase",
+      "subtitle": "All Page Templates Demonstrated",
+      "description": "A comprehensive showcase of all available page templates with full descriptions and examples",
+      "collection": "Hobby",
+      "music": [
+        { "title": "Short Music - Youtube", "url": "https://www.youtube.com/watch?v=U6cPjurCOmQ" },
+        { "title": "Alamak - Rizky Febian & Adrian Khalif", "url": "https://www.youtube.com/watch?v=OErndIcI8gE" }
+      ],
+      "coverImage": "https://img.freepik.com/free-vector/minimal-wedding-instagram-posts_23-2148920679.jpg?w=800&h=1000&fit=crop",
+      "hoverImage": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=1200&h=1600&fit=crop",
+      "searchTags": ["template", "showcase", "design", "layout", "guide"],
+      "pages": [
+        {
+          "id": "page-1",
+          "template": "cover",
+          "title": "Template Showcase",
+          "subtitle": "All Page Templates Demonstrated",
+          "backgroundImage": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=1200&h=1600&fit=crop",
+          "textColor": "white",
+          "textAnimation": "fade"
+        },
+        {
+          "id": "page-2",
+          "template": "text-image",
+          "title": "Welcome to the Showcase",
+          "description": "This album demonstrates all available page templates. Each template is designed to showcase different types of content - from single images to complex layouts with text and multiple images. Use these templates to create beautiful photo albums that tell your story in the most engaging way possible.",
+          "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        },
+        {
+          "id": "page-3",
+          "template": "single-image",
+          "title": "Single Image Template",
+          "description": "Perfect for showcasing one stunning photograph with a title and description. This template draws full attention to a single image, making it ideal for hero shots or important moments.",
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop"
+        },
+        {
+          "id": "page-4",
+          "template": "grid-3",
+          "title": "Grid 3 Template",
+          "description": "Display three images in a balanced grid layout. This template is perfect for showing a series of related photos or creating visual variety on a single page.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=600&h=600&fit=crop"
+          ]
+        },
+        {
+          "id": "page-5",
+          "template": "grid-4",
+          "title": "Grid 4 Template",
+          "description": "Display four images in a 2x2 grid layout. This template maximizes the number of photos on a single page while maintaining visual balance and clarity.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-6",
+          "template": "grid-2-square",
+          "title": "Grid 2 Square Template",
+          "description": "Display two square images side by side. This template is ideal for before-and-after comparisons or showing two related moments with equal emphasis.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=500&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=500&h=500&fit=crop"
+          ]
+        },
+        {
+          "id": "page-7",
+          "template": "grid-2-rect",
+          "title": "Grid 2 Rectangle Template",
+          "description": "Display two rectangular images side by side. This template works well for landscape-oriented photos and creates a cinematic feel to your album.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-8",
+          "template": "grid-2-with-text",
+          "title": "Grid 2 with Text Template",
+          "description": "Display two images with text and description on top. Perfect for telling stories with visual support from two complementary images.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-9",
+          "template": "grid-6",
+          "title": "Grid 6 Template",
+          "description": "Display six images in a 3x2 grid layout. This template is perfect for showcasing a collection of related moments or creating a comprehensive visual story.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-10",
+          "template": "grid-8",
+          "title": "Grid 8 Template",
+          "description": "Display eight images in a 4x2 grid layout. This template maximizes visual content and is ideal for comprehensive photo collections or event documentation.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=300&h=300&fit=crop"
+          ]
+        },
+        {
+          "id": "page-11",
+          "template": "grid-10",
+          "title": "Grid 10 Template",
+          "description": "Display ten images in a 5x2 grid layout. This template is perfect for showcasing extensive photo collections while maintaining visual organization.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=250&h=250&fit=crop"
+          ]
+        },
+        {
+          "id": "page-12",
+          "template": "grid-12",
+          "title": "Grid 12 Template",
+          "description": "Display twelve images in a 4x3 grid layout. This template is ideal for comprehensive photo documentation and creating a gallery-like experience.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=250&h=250&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=250&h=250&fit=crop"
+          ]
+        },
+        {
+          "id": "page-13",
+          "template": "grid-16",
+          "title": "Grid 16 Template",
+          "description": "Display sixteen images in a 4x4 grid layout. This template is perfect for creating a comprehensive photo mosaic and showcasing extensive collections.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=200&h=200&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=200&h=200&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=200&h=200&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=200&h=200&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=200&h=200&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=200&h=200&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=200&h=200&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=200&h=200&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=200&h=200&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=200&h=200&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=200&h=200&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=200&h=200&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=200&h=200&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=200&h=200&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=200&h=200&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=200&h=200&fit=crop"
+          ]
+        },
+        {
+          "id": "page-14",
+          "template": "full-image",
+          "title": "Full Image Template",
+          "description": "Display a single image that fills the entire page. This template creates a dramatic, immersive experience and is perfect for breathtaking landscape or portrait photographs.",
+          "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200&h=800&fit=crop"
+        },
+        {
+          "id": "page-15",
+          "template": "two-column",
+          "title": "Two Column Template",
+          "description": "Display text on one side and an image on the other. This template is perfect for telling stories with detailed descriptions alongside supporting imagery.",
+          "leftContent": "The two-column layout provides a balanced way to combine narrative text with visual elements. Use this template when you want to tell a detailed story about your photos. The text flows naturally alongside the image, creating a magazine-like reading experience.",
+          "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&h=600&fit=crop",
+          "imagePosition": "right"
+        },
+        {
+          "id": "page-16",
+          "template": "collage",
+          "title": "Collage Template",
+          "description": "Display multiple images in a creative collage layout. This template is perfect for creating artistic compositions and showing multiple perspectives of a moment.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=300&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=300&h=300&fit=crop"
+          ]
+        },
+        {
+          "id": "page-17",
+          "template": "quote",
+          "title": "Quote Template",
+          "description": "Display an inspiring quote or meaningful text. This template is perfect for adding motivational messages, captions, or important text between photo sections.",
+          "quote": "Every moment is a fresh beginning. The best time to start something new is now.",
+          "author": "Ralph Marston"
+        },
+        {
+          "id": "page-18",
+          "template": "text-image",
+          "title": "Text Image Template (Left)",
+          "description": "Display text on the left with an image on the right. This is the mirror version of the text-image template, allowing you to alternate the layout throughout your album for visual variety.",
+          "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+          "imagePosition": "left"
+        },
+        {
+          "id": "page-19",
+          "template": "video",
+          "title": "Video Template",
+          "description": "Embed a video on a page. This template allows you to include video content in your album, perfect for adding motion and sound to your storytelling.",
+          "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "title": "Video Content Example"
+        },
+        {
+          "id": "page-20",
+          "template": "video-gallery",
+          "title": "Video Gallery Template",
+          "description": "Display multiple videos in a gallery layout. This template is perfect for showcasing a collection of video clips or moments from an event.",
+          "videos": [
+            {
+              "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+              "title": "Video 1"
+            },
+            {
+              "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+              "title": "Video 2"
+            },
+            {
+              "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+              "title": "Video 3"
+            }
+          ]
+        },
+        {
+          "id": "page-21",
+          "template": "text-image",
+          "title": "All Templates Complete",
+          "description": "You now have access to 19 different page templates to create stunning photo albums. Mix and match them to tell your unique story. Each template is designed to work seamlessly with the others, allowing you to create a cohesive and visually stunning album that captures your memories in the most compelling way.",
+          "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800&h=600&fit=crop",
+          "imagePosition": "right"
+        },
+        {
+          "id": "page-22",
+          "template": "full-image-2",
+          "title": "Full Image 2 Columns",
+          "description": "Display two full-height images side by side with no gap. Perfect for comparing two moments or creating a split-screen effect.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=800&fit=crop"
+          ]
+        },
+        {
+          "id": "page-23",
+          "template": "full-image-4",
+          "title": "Full Image 4 Columns",
+          "description": "Display four full-height images in a row with no gap. Creates a dynamic, cinematic strip effect perfect for sequential moments.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=300&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=300&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=300&h=800&fit=crop"
+          ]
+        },
+        {
+          "id": "page-24",
+          "template": "full-image-6",
+          "title": "Full Image 6 Columns",
+          "description": "Display six full-height images in a row with no gap. Ideal for creating a comprehensive visual narrative with multiple perspectives.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=200&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=200&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=200&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=200&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=200&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=200&h=800&fit=crop"
+          ]
+        },
+        {
+          "id": "page-25",
+          "template": "full-image-8",
+          "title": "Full Image 8 Columns",
+          "description": "Display eight full-height images in a row with no gap. Perfect for creating a detailed visual timeline or comprehensive event documentation.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=150&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=150&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=150&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=150&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=150&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=150&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=150&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=150&h=800&fit=crop"
+          ]
+        },
+        {
+          "id": "page-26",
+          "template": "full-image-10",
+          "title": "Full Image 10 Columns",
+          "description": "Display ten full-height images in a row with no gap. Creates an immersive, gallery-like experience with maximum visual impact.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=120&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=120&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=120&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=120&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=120&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=120&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=120&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=120&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=120&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=120&h=800&fit=crop"
+          ]
+        },
+        {
+          "id": "page-27",
+          "template": "full-image-12",
+          "title": "Full Image 12 Columns",
+          "description": "Display twelve full-height images in a row with no gap. Ideal for comprehensive visual storytelling with maximum detail and variety.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=100&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=100&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=100&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=100&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=100&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=100&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=100&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=100&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=100&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=100&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=100&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=100&h=800&fit=crop"
+          ]
+        },
+        {
+          "id": "page-28",
+          "template": "full-image-16",
+          "title": "Full Image 16 Columns",
+          "description": "Display sixteen full-height images in a row with no gap. Creates the ultimate immersive visual experience with maximum content density.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=75&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=75&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=75&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=75&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=75&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=75&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=75&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=75&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=75&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=75&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=75&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=75&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=75&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=75&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=75&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=75&h=800&fit=crop"
+          ]
+        },
+        {
+          "id": "page-29",
+          "template": "full-image-4-grid",
+          "title": "Full Image 4 Grid (2x2)",
+          "description": "Display four full-height images in a 2x2 grid with no gap. Perfect for showing four key moments with equal emphasis.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=600&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&h=600&fit=crop"
+          ]
+        },
+        {
+          "id": "page-30",
+          "template": "full-image-8-grid",
+          "title": "Full Image 8 Grid (2x4)",
+          "description": "Display eight full-height images in a 2x4 grid with no gap. Ideal for comprehensive visual storytelling with multiple perspectives.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=400&fit=crop"
+          ]
+        },
+        {
+          "id": "page-31",
+          "template": "full-image-16-grid",
+          "title": "Full Image 16 Grid (4x4)",
+          "description": "Display sixteen full-height images in a 4x4 grid with no gap. Creates the ultimate immersive gallery experience with maximum visual impact.",
+          "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=300&h=300&fit=crop",
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=300&h=300&fit=crop"
+          ]
+        }
+      ]
+    }
+  ]
+}
